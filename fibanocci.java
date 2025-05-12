@@ -1,5 +1,3 @@
-package program5;
-
 public class fibanocci {
     
         public static void main(String[] args) {
